@@ -1,0 +1,20 @@
+{
+  "user": {
+    "name": "Dawid",
+    "lastName": "Mastalski",
+    "email": "przykladowy@gmail.com",
+    "photo": null,
+    "links": [
+      {
+        "id": 0,
+        "title": "GitHub",
+        "url": "https://github.com/"
+      },
+      {
+        "id": 1,
+        "title": "Instagram",
+        "url": "https://instagram.com/"
+      }
+    ]
+  }
+}

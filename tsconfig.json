@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",                                  
+    "module": "ES2015",                                  
+    "rootDir": "./src/ts",                                  
+    "outDir": "./dist/js",      
+    
+    "baseUrl": "./",
+    "moduleResolution":"node"
+  }
+}

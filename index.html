@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Link Sharing App</title>
+
+    <link rel="stylesheet" href="dist/css/main.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <!--Font Awesome-->
+    <script src="https://kit.fontawesome.com/5e7b60bd46.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header class="navbar page-wrapper">
+        <p class="logo">
+            <span>
+                <i class="fa-solid fa-link"></i>
+            </span>
+            devlinks
+        </p>
+        <div>
+            <button class="option-btn active" id="links-btn">
+                <i class="fa-solid fa-link option-btn__icon"></i> Links
+            </button>
+            <button class="option-btn" id="profile-details-btn">
+                <i class="fa-solid fa-user option-btn__icon"></i> Profile Details
+            </button>
+        </div>
+        <button id="preview-btn">Preview</button>
+    </header>
+    <main class="main-container page-wrapper">
+        <section class="section phone-preview">
+            <div class="iphone">
+                <div class="iphone__inner">
+                    <div class="iphone__inner-island"></div>
+                    <div class="iphone__inner-screenContent">
+                        <div class="iphone-personal-info">
+                            <div class="user-photo-container empty-element"></div>
+                            <div class="user-name-container empty-element"></div>
+                            <div class="user-email-container empty-element"></div>
+                        </div>
+                        <div class="iphone-links"></div>
+                    </div>
+                </div>
+                <div class="iphone__btn iphone__btn1"><span></span></div>
+                <div class="iphone__btn iphone__btn2"></div>
+                <div class="iphone__btn iphone__btn3"></div>
+                <div class="iphone__btn iphone__btn-right"></div>
+            </div>
+        </section>
+        <section class="section customize-section">
+            <form action="#" method="post" class="form">
+                <div class="formSteps">
+                    <div class="formSteps__step">
+                        <h1 class="formSteps__step-heading">Customize Your Links</h1>
+                        <p class="formSteps__step-description">Add/edit/remove link below and then share all your profiles with the world!!</p>
+
+                        <button id="add-new-link-btn" type="button">+Add New Link</button>
+
+                        <div class="linksCreator-container">
+                            <!-- <div class="linkCreator">
+                                <header class="linkCreator__header">
+                                    <p>Link<span class="link-id">#1</span></p>
+                                    <button class="remove-link-btn">Remove</button>
+                                </header>
+
+                                <div class="linkCreator__innerSection">
+                                    <label for="platform">Platform:</label>
+                                    <select id="platform" class="selectElement">
+                                        <option value="github">GitHub</option>
+                                        <option value="facebook">Facebook</option>
+                                        <option value="instagram">Instagram</option>
+                                        <option value="youtube">YouTube</option>
+                                    </select>
+                                </div>
+                                <div class="linkCreator__innerSection">
+                                    <label for="link">Link:</label>
+                                    <div class="link-input-wrapper">
+                                        <input type="text" class="link-input" id="link">
+                                        <i class="fa-solid fa-link link-icon"></i>
+                                    </div>
+                                </div>
+                            </div> -->
+                        </div>
+                    </div>
+                    <div class="formSteps__step">
+                        <h1 class="formSteps__step-heading">Profile Detailss</h1>
+                        <p class="formSteps__step-description">Add your details to create a personal touch to your profile</p>
+
+                        <div class="userDetails">
+                            <div class="userDetails__innerSection profile-picture-wrapper">
+                                <p class="label">Profile picture</p>
+
+                                <label for="profile-picture" class="profile-picture-container">
+                                    <span>
+                                        <i class="fa-regular fa-image"></i>
+                                        Change image
+                                    </span>
+                                </label>
+
+                                <input type="file" id="profile-picture" class="profile-picture-input" accept="image/*">
+                                <p class="input-info">Image must be below 1024x1024.<br>Use PNG, JPG or BMP format</p>
+                            </div>
+                            <div class="userDetails__innerSection userInfo">
+                                <div class="userInfo__row">
+                                    <label for="first-name">First name <span>*</span></label>
+                                    <input type="text" id="first-name" class="userInfo__row-input required-input user-data">
+                                </div>
+                                <div class="userInfo__row">
+                                    <label for="last-name">Last name <span>*</span></label>
+                                    <input type="text" id="last-name" class="userInfo__row-input required-input user-data">
+                                </div>
+                                <div class="userInfo__row">
+                                    <label for="email">Email</label>
+                                    <input type="email" id="email" class="userInfo__row-input user-data">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="submit-container">
+                    <input type="submit" value="Save" id="save-btn">
+                </div>
+            </form>
+        </section>
+    </main>
+
+    <script type="module" src="./dist/js/app.js"></script>
+</body>
+</html>
