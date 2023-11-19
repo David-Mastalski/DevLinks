@@ -14,7 +14,7 @@ LinkSharingApp is a simple application for shortening and sharing links convenie
   - A clean and intuitive interface for a seamless user experience
 
 ## How it's working?
-  The chat is an application written using JavaScript, Sass, and Gulp. The application's functionality is based on rendering and saving new messages in an array located in the js/data/conversationData.js file. ChatApp checks whether a written message was sent 20 minutes ago. If so, after sending a new message, ChatApp creates a new conversation, starting with rendering the current date and time.
+  devLinks is an application developed using TypeScript, Sass, and Gulp. The functionality of the application revolves around rendering and saving new links. The links are stored on a local server running on port 3001. devLinks allows users to add links to their profiles on platforms such as Facebook, Instagram, YouTube, Snapchat, and GitHub. To create a new link, simply click "+Add New Link," then choose the platform and paste the link. Additionally, devLinks provides customization options for a fictional account where users can add their name, surname, email, and avatar.
    
 ## Getting Started 
 - _Clone this repository to your local computer - git clone https://github.com/David-Mastalski/Chat-App.git_
