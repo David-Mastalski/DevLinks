@@ -25,3 +25,7 @@ All data entered is rendered on the virtual iPhone
 - _Run the "npm i" command in the terminal_
 - _Start json-server with the "npx server-json --watch data/db.json --port 3001" command_
 - _Run Gulp with the command "gulp" in the terminal_
+
+## Demo from Memory Game
+<img src="https://github.com/David-Mastalski/devLinks/blob/main/demo/demo1.png" alt="Chat-App" width="100%">
+<img src="https://github.com/David-Mastalski/devLinks/blob/main/demo/demo2.png" alt="Chat-App" width="100%">
