@@ -20,5 +20,5 @@ LinkSharingApp is a simple application for shortening and sharing links convenie
   - 'npm i'
 - _**Start json-server**_
   - 'npx json-server --watch data/db.json --port 3001' 
- - _**Run application**_
+- _**Run application**_
   - 'gulp'    
