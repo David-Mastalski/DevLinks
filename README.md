@@ -1,4 +1,4 @@
-# ![devLinks](https://img.shields.io/badge/devLinks-%2320232a.svg?style=for-the-badge&logo=devLinks&logoColor=%2361DAFB)devLinks
+# devLinks
 
 
 <p>
