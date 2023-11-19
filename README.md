@@ -19,7 +19,7 @@ LinkSharingApp is a simple application for shortening and sharing links convenie
 All data entered is rendered on the virtual iPhone
    
 ## Getting Started 
-- _Clone this repository to your local computer - git clone https://github.com/David-Mastalski/Chat-App.git_
+- _Clone this repository to your local computer - git clone https://github.com/David-Mastalski/devLinks.git_
 - _Navigate to the application directory_
 - _Open the directory with a code editor such as Visual Studio Code_
 - _Run the "npm i" command in the terminal_
