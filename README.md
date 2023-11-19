@@ -1,4 +1,5 @@
-# ![devLinks](https://img.shields.io/badge/style=for-the-badge&logo=dev&logoColor=%2361DAFB)devLinks
+# ![devLinks](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=devLinks&logoColor=%2361DAFB)devLinks
+
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
