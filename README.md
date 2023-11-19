@@ -9,8 +9,12 @@
 
 LinkSharingApp is a simple application for shortening and sharing links conveniently. It provides an easy way to share long URLs in a more user-friendly manner.
 
-## User-Friendly Interface
-- _A clean and intuitive interface for a seamless user experience_
+## Features 
+- _*User-Friendly Interface**_
+  - A clean and intuitive interface for a seamless user experience
+
+## How it's working?
+  The chat is an application written using JavaScript, Sass, and Gulp. The application's functionality is based on rendering and saving new messages in an array located in the js/data/conversationData.js file. ChatApp checks whether a written message was sent 20 minutes ago. If so, after sending a new message, ChatApp creates a new conversation, starting with rendering the current date and time.
    
 ## Getting Started 
 - _Clone this repository to your local computer - git clone https://github.com/David-Mastalski/Chat-App.git_
