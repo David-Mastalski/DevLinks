@@ -1,4 +1,4 @@
-# devLinks
+# ![devLinks](https://img.shields.io/badge/style=for-the-badge&logo=dev&logoColor=%2361DAFB)devLinks
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
