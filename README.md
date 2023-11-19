@@ -8,3 +8,7 @@
 </p>
 
 LinkSharingApp is a simple application for shortening and sharing links conveniently. It provides an easy way to share long URLs in a more user-friendly manner.
+
+## User-Friendly Interface
+- _A clean and intuitive interface for a seamless user experience_
+  
