@@ -11,14 +11,11 @@ LinkSharingApp is a simple application for shortening and sharing links convenie
 
 ## User-Friendly Interface
 - _A clean and intuitive interface for a seamless user experience_
-  
-## Getting Started
-- _**Open a terminal**_
-- _**Clone the repository**_
-  - 'git clone https://github.com/your-username/link-sharing-app.git'
-- _**Install Gulp**_
-  - 'npm i'
-- _**Start json-server**_
-  - 'npx json-server --watch data/db.json --port 3001' 
-- _**Run application**_
-  - 'gulp'    
+   
+## Getting Started 
+- _Clone this repository to your local computer - git clone https://github.com/David-Mastalski/Chat-App.git_
+- _Navigate to the application directory_
+- _Open the directory with a code editor such as Visual Studio Code_
+- _Run the "npm i" command in the terminal_
+- _Start json-server with the "npx server-json --watch data/db.json --port 3001" command_
+- _Run Gulp with the command "gulp" in the terminal_
