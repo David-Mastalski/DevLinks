@@ -6,3 +6,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
 </p>
+
+LinkSharingApp is a simple application for shortening and sharing links conveniently. It provides an easy way to share long URLs in a more user-friendly manner.
