@@ -27,5 +27,8 @@ All data entered is rendered on the virtual iPhone
 - _Run Gulp with the command "gulp" in the terminal_
 
 ## Demo from Memory Game
-<img src="https://github.com/David-Mastalski/devLinks/blob/main/demo/demo1.png" alt="Chat-App" width="100%">
-<img src="https://github.com/David-Mastalski/devLinks/blob/main/demo/demo2.png" alt="Chat-App" width="100%">
+<img src="https://github.com/David-Mastalski/devLinks/blob/main/demo/demo1.png" alt="devLink Demo" width="100%">
+<img src="https://github.com/David-Mastalski/devLinks/blob/main/demo/demo2.png" alt="devLink Demo" width="100%">
+
+<img align="left" src="https://github.com/David-Mastalski/devLinks/blob/main/demo/video1.gif" alt="devLink Demo" width="50%">
+<img align="right" src="https://github.com/David-Mastalski/devLinks/blob/main/demo/video2.gif" alt="devLink Demo" width="50%">
